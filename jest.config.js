@@ -2,7 +2,7 @@ module.exports = {
     reporters: [ 
         'default', 
         ['jest-junit', { outputDirectory: 'reports', 
-       outputName: 'report.xml' }], 
+    outputName: 'report.xml' }], 
         ], 
-       }; 
+    }; 
        
